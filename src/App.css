@@ -1,0 +1,26 @@
+.contact-card {
+  background-color: rgb(62, 62, 109);
+  display: flex;
+
+  width: 450px;
+  height: 100%;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+.user-details {
+  color: aliceblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+button{
+  color:rgb(103, 101, 101);
+  border-radius: 4px ;
+  border: none;
+  padding: 3px;
+  cursor: pointer;
+}
